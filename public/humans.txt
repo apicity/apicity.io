@@ -1,0 +1,15 @@
+/* TEAM */
+	Founder: Tessa Mero
+	Twitter: @tessamero
+	From: Seattle, WA
+
+	Webmaster / WordPress developer: Andrew Woods
+	Twitter: @awoods
+	From: Seattle, WA
+
+
+/* SITE */
+	Last update: 2019-04-21
+	Language: English
+	Doctype: HTML5
+
