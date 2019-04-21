@@ -9,6 +9,7 @@
 #
 *.env
 config.php
+wp-config.php
 
 
 #
